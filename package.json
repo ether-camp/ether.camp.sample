@@ -1,0 +1,21 @@
+{
+  "name": "ether.camp.sample",
+  "description": "",
+  "version": "0.0.1",
+  "author": "",
+  "contributors": [
+    {
+      "name": "alex",
+      "email": "alex@ethergit.coms"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "plugins": {
+    "sample": {}
+  },
+  "categories": ["miscellaneous"],
+  "licenses": []
+}

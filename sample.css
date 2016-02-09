@@ -1,0 +1,11 @@
+.sample {
+    padding: 10px;
+}
+
+.sample.dark {
+    color: #e1e1e1;
+}
+
+.sample.flat-light {
+    color: #333333;
+}
